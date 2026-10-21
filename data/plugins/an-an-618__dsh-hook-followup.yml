@@ -1,0 +1,7 @@
+url: https://github.com/an-an-618/dsh-hook-followup
+name: an-an-618/dsh-hook-followup
+category: ui
+description:
+  en: 'Adds one anchor question and 1-3 clickable user-voice quick replies under each DSH turn; a click sends the reply as one ordinary user message, with always / balanced / conservative strategies and optional refusal or emotional-context skips.'
+  zh: '在每轮 DSH 回答末尾加一句锚定正文的追问和 1–3 条可点击的用户口吻快捷回复；点击即作为普通用户消息发回，支持 always / balanced / conservative 策略，并可跳过拒绝回答与情绪场景。'
+tarball: https://github.com/an-an-618/dsh-hook-followup/releases/download/v0.1.0/an-an-618-dsh-hook-followup-0.1.0.tgz
